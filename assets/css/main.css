@@ -3488,8 +3488,15 @@
 			opacity: 0;
 		}
 
+		@media screen and (max-width: 1280px) {
 
-		@media screen and (max-width: 736px) {
+			#banner {
+				background-attachment: scroll;
+			}
+
+		}
+
+		@media screen and (max-width: 1000px) {
 
 			#banner {
 				padding: 5em 0 1em 0 ;
