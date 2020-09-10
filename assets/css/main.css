@@ -1856,7 +1856,7 @@
 		}
 
 		body.is-ie header.major > :first-child:after {
-			max-width: 9em;
+			max-width: 50em;
 		}
 
 		body.is-ie header.major > h1:after {
