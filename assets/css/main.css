@@ -3368,6 +3368,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
+			background-color: none;
 			content: '';
 			display:  inline;
 			height: 100%;
