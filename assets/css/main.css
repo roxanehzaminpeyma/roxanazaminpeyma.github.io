@@ -3349,8 +3349,7 @@
 		cursor: not-allowed;
 		height: 80vh;
 		margin-bottom: -3.25em;
-		max-height: 60em;
-		min-height: 50em;
+		min-height: 80em;
 		position: relative;
 		top: -3.25em;
 	}
