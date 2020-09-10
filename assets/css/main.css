@@ -2820,13 +2820,6 @@
 
 		}
 
-		@media screen and (max-width: 980px) {
-
-			.tiles article {
-				width: 50% !important;
-			}
-
-		}
 
 		@media screen and (max-width: 736px) {
 
