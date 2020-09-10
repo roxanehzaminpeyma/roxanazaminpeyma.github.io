@@ -3368,7 +3368,6 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color:  #ffeb99;
 			content: '';
 			display:  inline;
 			height: 100%;
