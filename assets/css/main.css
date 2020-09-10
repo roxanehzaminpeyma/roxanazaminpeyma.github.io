@@ -2625,7 +2625,7 @@
 		.button.special {
 			background-color: #ffffff;
 			box-shadow: none;
-			color: #ff6f69;
+			color: #000000;
 		}
 
 			input[type="submit"].special:hover, input[type="submit"].special:active,
