@@ -2625,7 +2625,7 @@
 		.button.special {
 			background-color: #ffffff;
 			box-shadow: none;
-			color: #242943;
+			color: #ff6f69;
 		}
 
 			input[type="submit"].special:hover, input[type="submit"].special:active,
@@ -2637,8 +2637,8 @@
 			button.special:active,
 			.button.special:hover,
 			.button.special:active {
-				background-color: #9bf1ff;
-				color: #242943 !important;
+				background-color: #88d8b0;
+				color: #ff6f69 !important;
 			}
 
 			input[type="submit"].special:active,
@@ -2786,11 +2786,11 @@
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #96ceb4;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #ffeead;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
@@ -2798,11 +2798,11 @@
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #ffcc5c;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #8ea9e8;
+				background-color: #88d8b0;
 			}
 
 			.tiles article:nth-child(6n):before {
@@ -2955,7 +2955,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color:	#ff6f69;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3069,7 +3069,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #2a2f4a;
+		background-color: #ffcc5c;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3100,7 +3100,7 @@
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #242943;
+				color: #88d8b0;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
